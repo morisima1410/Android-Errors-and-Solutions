@@ -5,7 +5,7 @@ A collection of common Android Studio errors and their solutions.
 ## 📌 Series
 
 ### Episode 01
-- Error: Gradle Sync Failed
+- Error: Too Many Characters in a Character Literal
 - Solution: [View Solution](https://github.com/morisima1410/Android-Errors-and-Solutions/tree/main/Episode-01-Gradle-Sync-Failed)
 
 
