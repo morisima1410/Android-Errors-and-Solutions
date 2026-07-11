@@ -43,25 +43,25 @@ Always use Logcat to identify the exact crash reason before applying a fix.
 ## 📷 Screenshots
 
 ### Welcome 
-![Error](IMG-20260708-WA0013.jpg)
+![Error](IMG-20260708-WA0006.jpg)
 
 ### Error 
-![Explanation](IMG-20260709-WA0006.jpg)
+![Explanation](IMG-20260709-WA0007.jpg)
 
 ### Explantion 
-![Solution](IMG-20260709-WA0007.jpg)
+![Solution](IMG-20260709-WA0008.jpg)
 
 ### solution 
-![Example](IMG-20260709-WA0008.jpg)
+![Example](IMG-20260709-WA0009.jpg)
 
 ### Tips
-![Output](IMG-20260709-WA0009.jpg)
+![Output](IMG-20260709-WA0011.jpg)
 
 ### Summary 
-![Fix Applied](IMG-20260709-WA0011.jpg)
+![Fix Applied](IMG-20260709-WA0012.jpg)
 
 ### Thanks
-![Thanks](IMG-20260709-WA0012.jpg)
+![Thanks](IMG-20260709-WA0013.jpg)
 
 ---
 
