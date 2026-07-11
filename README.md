@@ -10,7 +10,7 @@ A collection of common Android Studio errors and their solutions.
 
 ### Episode 02
 - **Error:** Version Update Error
-- **Solution:** [View Solution](https://github.com/morisima1410/Android-Errors-and-Solutions/tree/main/Episode-02-Version-Update-Error)
+- **Solution:** [View Solution](https://github.com/morisima1410/Android-Errors-and-Solutions/tree/main/Episode%20-2%20Version%20Update%20Error)
 
 ### Episode 03
 - **Error:** Gradle Sync Failed
@@ -22,7 +22,7 @@ A collection of common Android Studio errors and their solutions.
 
 ### Episode 05
 - **Error:** Duplicate Class Error
-- **Solution:** [View Solution](https://github.com/morisima1410/Android-Errors-and-Solutions/tree/main/Episode-05-Duplicate-Class-Error)
+- **Solution:** [View Solution](https://github.com/morisima1410/Android-Errors-and-Solutions/tree/main/Episode%20-05-Duplicate-%20Class%20-Error)
 
 ## 🛠 Technologies
 
