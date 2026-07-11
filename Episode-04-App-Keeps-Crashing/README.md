@@ -43,7 +43,7 @@ Always use Logcat to identify the exact crash reason before applying a fix.
 ## 📷 Screenshots
 
 ### Welcome 
-![Error](IMG-20260708-WA0006.jpg)
+![Error](IMG-20260709-WA0006.jpg)
 
 ### Error 
 ![Explanation](IMG-20260709-WA0007.jpg)
@@ -61,7 +61,7 @@ Always use Logcat to identify the exact crash reason before applying a fix.
 ![Fix Applied](IMG-20260709-WA0012.jpg)
 
 ### Thanks
-![Thanks](IMG-20260709-WA0013.jpg)
+![Thanks](IMG-20260708-WA0013.jpg)
 
 ---
 
