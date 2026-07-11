@@ -42,19 +42,19 @@ Update the Android Gradle Plugin, Gradle Wrapper, SDK, and project dependencies 
 
 ## 📷 Screenshots
 
-### Error
+### Welcome 
 ![Error](IMG-20260708-WA0005.jpg)
 
-### Explanation
+### Error 
 ![Explanation](IMG-20260708-WA0006.jpg)
 
-### Solution
+### Explanation 
 ![Solution](IMG-20260708-WA0007.jpg)
 
-### Example
+### solution
 ![Example](IMG-20260708-WA0008.jpg)
 
-### Output
+### Example 
 ![Output](IMG-20260708-WA0009.jpg)
 
 ### Fix Applied
