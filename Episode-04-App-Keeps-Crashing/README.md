@@ -52,10 +52,10 @@ Always use Logcat to identify the exact crash reason before applying a fix.
 ![Solution](IMG-20260709-WA0008.jpg)
 
 ### solution 
-![Example](IMG-20260709-WA0009.jpg)
+![Example](IMG-20260709-WA0011.jpg)
 
 ### Tips
-![Output](IMG-20260709-WA0011.jpg)
+![Output](IMG-20260709-WA0009.jpg)
 
 ### Summary 
 ![Fix Applied](IMG-20260709-WA0012.jpg)
