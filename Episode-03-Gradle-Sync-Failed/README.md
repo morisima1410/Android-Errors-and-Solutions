@@ -8,38 +8,60 @@ Gradle Sync Failed
 
 ## ❓ Why This Error Occurs
 
-This error usually occurs due to dependency issues, internet connectivity problems, Gradle version mismatch, or corrupted cache.
+This error occurs when Android Studio is unable to sync the project with Gradle.
+
+Common reasons include:
+
+- Incorrect Gradle or Android Gradle Plugin version.
+- Internet connection issues.
+- Corrupted Gradle cache.
+- Missing or incompatible project dependencies.
+
+## ❌ Common Issue
+
+```gradle
+Failed to sync Gradle project
+```
+
+## ✅ Correct Approach
+
+```gradle
+Sync Project with Gradle Files
+```
+
+Update Gradle, Android Gradle Plugin, and dependencies to compatible versions, then sync the project again.
 
 ## 🛠️ Solution
 
 - Check your internet connection.
 - Sync the project with Gradle files.
 - Update the Gradle version if required.
+- Update project dependencies.
 - Clean and Rebuild the project.
-- Invalidate Caches and Restart Android Studio.
+- Invalidate Caches & Restart Android Studio.
 
 ## 📷 Screenshots
 
-### Cover
-![Cover](e3.jpg)
+### Welcome 
+![Error](e3.jpg)
 
-### Step 1
-![Step 1](e3.1.jpg)
+### Error 
+![Explanation](e3.1.jpg)
 
-### Step 2
-![Step 2](e3-2.jpg)
+### Explanation
+![Solution](e3-2.jpg)
 
-### Step 3
-![Step 3](e3-3.jpg)
+### Solution
+![Example](e3-3.jpg)
 
-### Step 4
-![Step 4](e3-4.jpg)
+### Example 
+![Output](e3-4.jpg)
 
-### Step 5
-![Step 5](e3-5.jpg)
+### Fix Applied
+![Fix Applied](e3-5.jpg)
 
-### Final Result
-![Final Result](e3-6.jpg)
+### Thanks
+![Thanks](e3-6.jpg)
 
 ---
 
