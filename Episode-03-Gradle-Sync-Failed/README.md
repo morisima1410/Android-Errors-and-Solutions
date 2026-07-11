@@ -54,11 +54,11 @@ Update Gradle, Android Gradle Plugin, and dependencies to compatible versions, t
 ### Solution
 ![Example](e3-3.jpg)
 
-### Example 
-![Output](e3-4.jpg)
+### Tips 
+![Tips](e3-4.jpg)
 
-### Fix Applied
-![Fix Applied](e3-5.jpg)
+### Summary 
+![Summary](e3-5.jpg)
 
 ### Thanks
 ![Thanks](e3-6.jpg)
