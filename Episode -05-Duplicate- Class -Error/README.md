@@ -49,19 +49,19 @@ Remove duplicate or conflicting dependencies and use only one compatible version
 ![Error](e5.1.jpg)
 
 ### Explanation 
-![Explanation](e5-2.jpg)
+![Explanation](e5.2.jpg)
 
 ### Solutions 
-![Solutions](e5-3.jpg)
+![Solutions](e5.3.jpg)
 
 ### Tips
-![Tips](e5-4.jpg)
+![Tips](e5.4.jpg)
 
 ### Summary 
-![Summary](e5-5.jpg)
+![Summary](e5.5.jpg)
 
 ### Thanks
-![Thanks](e5-6.jpg)
+![Thanks](e5.6.jpg)
 
 ---
 
