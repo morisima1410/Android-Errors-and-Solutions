@@ -42,23 +42,23 @@ Remove duplicate or conflicting dependencies and use only one compatible version
 
 ## 📷 Screenshots
 
-### Error
+### Welcome 
 ![Error](e5.jpg)
 
-### Explanation
-![Explanation](e5.1.jpg)
+### Error 
+![Error](e5.1.jpg)
 
-### Solution
-![Solution](e5-2.jpg)
+### Explanation 
+![Explanation](e5-2.jpg)
 
-### Example
-![Example](e5-3.jpg)
+### Solutions 
+![Solutions](e5-3.jpg)
 
-### Output
-![Output](e5-4.jpg)
+### Tips
+![Tips](e5-4.jpg)
 
-### Fix Applied
-![Fix Applied](e5-5.jpg)
+### Summary 
+![Summary](e5-5.jpg)
 
 ### Thanks
 ![Thanks](e5-6.jpg)
