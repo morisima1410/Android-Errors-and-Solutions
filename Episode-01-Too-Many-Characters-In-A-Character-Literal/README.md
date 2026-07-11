@@ -52,14 +52,14 @@ char letter = 'H';
 ### Solution
 ![Solution](IMG-20260707-WA0003.jpg)
 
-### Example
-![Example](IMG-20260707-WA0004.jpg)
+### Tips 
+![Tips](IMG-20260707-WA0004.jpg)
 
-### Output
-![Output](IMG-20260707-WA0005.jpg)
+### Summary 
+![Summary](IMG-20260707-WA0005.jpg)
 
-### Final Result
-![Final Result](IMG-20260707-WA0006.jpg)
+### Thanks 
+![Thanks](IMG-20260707-WA0006.jpg)
 
 ---
 
